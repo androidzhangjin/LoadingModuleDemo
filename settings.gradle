@@ -1,0 +1,3 @@
+include ':LoadingLib'
+include ':app'
+rootProject.name = "LoadingModuleDemo"
